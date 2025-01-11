@@ -4,3 +4,6 @@ Chức năng login v2
 Chức năng login v4
 Chức năng thêm sản phẩm
 Xóa sản phẩm
+
+
+Thêm sản phẩm 2.0
