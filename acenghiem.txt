@@ -8,3 +8,5 @@ Xóa sản phẩm
 
 Thêm sản phẩm 2.0
 Thêm sản phẩm 4.0
+
+Thêm chức năng sửa thông tin sản phẩm
