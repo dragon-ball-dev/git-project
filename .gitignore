@@ -1,0 +1,10 @@
+#Bỏ file
+.env
+.vscode
+
+#Bỏ folder
+/build
+/idea
+!/lib
+
+*.vscode
